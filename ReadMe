@@ -1,0 +1,53 @@
+# Bcare Predictor - Breast Cancer Prediction App
+
+## Overview
+Bcare Predictor is a comprehensive application designed to predict the likelihood of breast cancer based on various input parameters. Beyond its predictive capabilities, the app serves as an informative resource, providing users with essential information about breast cancer, its symptoms, and guidance on performing self-exams. Leveraging advanced machine learning algorithms, the app aims to empower users for early detection and informed decision-making.
+
+![App Screenshot](images/BCare_Logo.png)
+
+## Features
+- **Breast Cancer Predictions:** Receive predictions on the probability of breast cancer based on input health parameters.
+- **Educational Resources:**
+  - **Breast Cancer Information:** Detailed information about breast cancer, its types, and risk factors.
+  - **Symptom Awareness:** Learn about common symptoms associated with breast cancer for early identification.
+  - **Self-Examination Guide:** Step-by-step guide on how to perform a self-exam for breast health.
+
+- **User-Friendly Interface:** An intuitive interface for entering breast health-related data, ensuring accessibility for all users.
+- **Data Visualization:** Visual representations of predictions and trends related to breast health data.
+- **Privacy and Security:** Ensures the privacy and security of sensitive health-related user data.
+
+## Getting Started
+
+
+### Prerequisites
+- Python 3.6 or higher
+- Git
+
+### Installation
+1. Clone the repository
+   
+   git clone https://github.com/MiguelMendesDA/BCarePredictor
+
+2. Navigate to the project directory
+
+3. Install dependencies
+
+pip install -r requirements.txt
+
+4. Run the app using the following command:
+
+streamlit run BCare_Predictor.py
+
+## Acknowledgements
+- Acknowledge any third-party libraries, frameworks, or datasets used in the development of the Bcare Predictor.
+
+- This project was developed as part of the Mid Bootcamp project during the Data Analytics Bootcamp.
+
+## Contact
+Miguel Mendes
+
+Email: miguelmendesDA@gmail.com
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/miguel-mendes-550a4828a/)
+
+
+

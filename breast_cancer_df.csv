@@ -1,0 +1,210 @@
+Breast_cancer_history,Select_laterality_if_breast_cancer,Age,Gender,Smoking_habits,Alcohol_habits,Weight(Kg),Height(m),Breastfeeding,Oral_contraception,BMI,Weight_status
+No,,47,Male,No,Yes,85.0,1.82,No,No,25.7,Overweight
+No,,43,Male,No,Yes,83.5,1.7,No,No,28.9,Overweight
+No,,71,Male,No,Yes,96.0,1.76,No,No,31.0,Obesity class I
+No,,25,Female,No,Yes,60.0,1.67,No,Yes,21.5,Normal weight
+No,,75,Female,No,Yes,54.0,1.61,No,No,20.8,Normal weight
+No,,25,Female,No,No,65.0,1.7,No,No,22.5,Normal weight
+No,,32,Female,Yes,Yes,73.0,1.7,No,Yes,25.3,Overweight
+No,,25,Female,No,No,58.8,1.63,No,Yes,22.1,Normal weight
+No,,43,Female,No,No,67.0,1.58,No,No,26.8,Overweight
+No,,29,Female,No,No,50.0,1.64,No,Yes,18.6,Normal weight
+No,,29,Female,No,No,58.0,1.71,No,No,19.8,Normal weight
+No,,30,Female,No,No,61.0,1.65,No,No,22.4,Normal weight
+No,,34,Female,No,Yes,54.0,1.65,No,No,19.8,Normal weight
+No,,36,Female,No,No,57.0,1.57,No,Yes,23.1,Normal weight
+No,,57,Female,No,No,62.0,1.7,Yes,Yes,21.5,Normal weight
+No,,52,Female,No,No,70.0,1.61,No,No,27.0,Overweight
+No,,36,Female,No,No,59.0,1.64,Yes,No,21.9,Normal weight
+No,,44,Female,No,No,49.0,1.56,No,No,20.1,Normal weight
+No,,36,Female,Yes,No,98.0,1.6,No,Yes,38.3,Obesity class II
+No,,39,Male,No,Yes,59.0,1.64,No,No,21.9,Normal weight
+No,,39,Male,No,No,78.0,1.77,No,No,24.9,Normal weight
+No,,26,Male,No,No,54.0,1.58,No,No,21.6,Normal weight
+No,,37,Male,No,No,70.0,1.7,No,No,24.2,Normal weight
+Yes,Both,65,Female,No,No,59.0,1.53,No,No,25.2,Overweight
+No,,66,Male,No,No,63.0,1.7,No,No,21.8,Normal weight
+No,,28,Female,No,No,65.0,1.52,No,Yes,28.1,Overweight
+No,,27,Male,No,No,72.0,1.75,No,No,23.5,Normal weight
+No,,32,Female,No,No,64.0,1.7,Yes,No,22.1,Normal weight
+No,,26,Female,No,No,54.0,1.55,No,No,22.5,Normal weight
+No,,27,Female,No,Yes,90.0,1.69,No,Yes,31.5,Obesity class I
+No,,25,Female,No,Yes,75.0,1.63,No,Yes,28.2,Overweight
+No,,24,Female,No,No,57.0,1.53,No,Yes,24.3,Normal weight
+No,,39,Female,No,Yes,80.0,1.75,No,Yes,26.1,Overweight
+No,,27,Female,No,Yes,53.0,1.5,No,Yes,23.6,Normal weight
+No,,30,Female,Yes,No,70.0,1.56,No,Yes,28.8,Overweight
+No,,58,Female,No,Yes,55.0,1.68,Yes,Yes,19.5,Normal weight
+Yes,Right,49,Female,No,No,68.0,1.69,Yes,No,23.8,Normal weight
+No,,30,Female,Yes,Yes,58.0,1.55,Yes,Yes,24.1,Normal weight
+No,,35,Female,No,Yes,67.0,1.6,Yes,Yes,26.2,Overweight
+No,,31,Female,No,No,59.0,1.54,No,No,24.9,Normal weight
+No,,32,Female,No,No,73.0,1.53,No,No,31.2,Obesity class I
+No,,29,Female,No,Yes,70.0,1.62,Yes,No,26.7,Overweight
+No,,41,Female,No,Yes,97.0,1.76,Yes,No,31.3,Obesity class I
+No,,23,Male,No,No,85.0,1.7,No,No,29.4,Overweight
+No,,34,Female,No,No,65.0,1.73,Yes,No,21.7,Normal weight
+No,,38,Female,No,No,70.0,1.63,Yes,No,26.3,Overweight
+No,,41,Male,Yes,Yes,68.0,1.75,No,No,22.2,Normal weight
+No,,38,Female,Yes,Yes,60.0,1.62,Yes,Yes,22.9,Normal weight
+No,,34,Female,No,No,58.0,1.65,No,No,21.3,Normal weight
+No,,26,Male,Yes,Yes,70.0,1.74,No,No,23.1,Normal weight
+No,,24,Female,No,No,73.0,1.65,No,No,26.8,Overweight
+No,,33,Female,No,Yes,65.0,1.65,No,Yes,23.9,Normal weight
+No,,44,Female,No,Yes,56.0,1.62,No,Yes,21.3,Normal weight
+No,,36,Male,No,Yes,78.0,1.71,No,No,26.7,Overweight
+No,,25,Female,No,Yes,50.0,1.54,No,Yes,21.1,Normal weight
+Yes,Left,25,Female,Yes,No,70.0,1.61,No,Yes,27.0,Overweight
+No,,33,Female,No,No,72.0,1.72,Yes,Yes,24.3,Normal weight
+No,,28,Female,No,No,65.0,1.63,No,No,24.5,Normal weight
+No,,28,Female,No,No,77.0,1.67,No,Yes,27.6,Overweight
+No,,37,Female,No,No,56.0,1.62,Yes,Yes,21.3,Normal weight
+No,,39,Female,No,No,57.0,1.53,Yes,Yes,24.3,Normal weight
+No,,41,Female,No,No,63.0,1.67,Yes,Yes,22.6,Normal weight
+No,,49,Female,No,No,63.0,1.7,Yes,Yes,21.8,Normal weight
+No,,50,Female,No,No,72.0,1.54,No,No,30.4,Obesity class I
+No,,69,Female,No,No,89.0,1.62,No,No,33.9,Obesity class I
+Yes,Left,65,Female,No,Yes,55.0,1.56,No,No,22.6,Normal weight
+No,,27,Female,No,No,48.0,1.63,No,Yes,18.1,Underweight
+No,,28,Male,No,No,73.0,1.77,No,No,23.3,Normal weight
+No,,30,Female,Yes,No,54.0,1.7,Yes,No,18.7,Normal weight
+Yes,Right,54,Female,No,No,58.0,1.56,No,No,23.8,Normal weight
+No,,37,Female,No,No,56.0,1.63,Yes,Yes,21.1,Normal weight
+No,,50,Female,No,No,61.0,1.62,Yes,No,23.2,Normal weight
+No,,49,Female,No,No,72.0,1.67,Yes,Yes,25.8,Overweight
+No,,62,Male,No,Yes,80.0,1.78,No,No,25.2,Overweight
+No,,62,Female,No,Yes,59.0,1.5,Yes,Yes,26.2,Overweight
+No,,47,Female,No,Yes,69.0,1.67,Yes,Yes,24.7,Normal weight
+No,,23,Female,No,Yes,65.0,1.63,No,No,24.5,Normal weight
+No,,23,Female,No,Yes,55.0,1.65,No,Yes,20.2,Normal weight
+No,,37,Male,No,Yes,82.0,1.74,No,No,27.1,Overweight
+No,,67,Male,Yes,Yes,90.0,1.68,No,No,31.9,Obesity class I
+No,,68,Female,No,No,67.0,1.53,Yes,Yes,28.6,Overweight
+No,,57,Female,Yes,No,80.0,1.67,Yes,Yes,28.7,Overweight
+No,,22,Female,Yes,No,67.0,1.68,No,No,23.7,Normal weight
+No,,35,Female,No,Yes,54.0,1.63,Yes,Yes,20.3,Normal weight
+No,,40,Female,No,No,84.0,1.63,Yes,No,31.6,Obesity class I
+No,,34,Male,No,Yes,75.0,1.71,No,No,25.6,Overweight
+No,,28,Female,No,No,81.0,1.63,No,Yes,30.5,Obesity class I
+No,,57,Female,Yes,Yes,60.0,1.65,Yes,Yes,22.0,Normal weight
+No,,35,Female,No,No,55.0,1.6,Yes,Yes,21.5,Normal weight
+No,,58,Female,Yes,No,56.0,1.53,No,No,23.9,Normal weight
+No,,38,Female,No,No,56.0,1.65,Yes,Yes,20.6,Normal weight
+No,,56,Female,No,No,70.0,1.65,Yes,Yes,25.7,Overweight
+No,,59,Male,Yes,No,70.0,1.74,No,No,23.1,Normal weight
+No,,37,Female,No,Yes,66.0,1.6,Yes,Yes,25.8,Overweight
+No,,24,Male,No,No,80.0,1.75,No,No,26.1,Overweight
+No,,28,Male,Yes,No,100.0,1.8,No,No,30.9,Obesity class I
+No,,40,Female,No,No,51.0,1.53,No,Yes,21.8,Normal weight
+No,,53,Female,Yes,No,73.0,1.7,No,No,25.3,Overweight
+No,,35,Female,No,Yes,64.0,1.65,No,Yes,23.5,Normal weight
+No,,38,Male,Yes,Yes,80.0,1.83,No,No,23.9,Normal weight
+No,,37,Female,No,No,66.0,1.63,Yes,No,24.8,Normal weight
+No,,38,Female,No,No,60.0,1.62,Yes,Yes,22.9,Normal weight
+No,,40,Female,No,Yes,76.0,1.67,Yes,No,27.3,Overweight
+No,,40,Male,Yes,Yes,78.0,1.8,No,No,24.1,Normal weight
+No,,28,Female,No,No,70.0,1.66,No,Yes,25.4,Overweight
+No,,25,Female,Yes,No,70.0,1.56,No,No,28.8,Overweight
+No,,36,Female,No,No,66.0,1.65,No,Yes,24.2,Normal weight
+Yes,Left,60,Female,No,No,82.0,1.66,Yes,No,29.8,Overweight
+Yes,Left,62,Female,No,No,92.0,1.65,No,Yes,33.8,Obesity class I
+Yes,Left,57,Female,No,No,58.0,1.69,No,No,20.3,Normal weight
+Yes,Both,61,Female,No,No,53.0,1.5,Yes,Yes,23.6,Normal weight
+Yes,Left,64,Female,No,Yes,64.0,1.57,Yes,Yes,26.0,Overweight
+Yes,Left,66,Female,No,No,85.0,1.58,Yes,Yes,34.0,Obesity class I
+Yes,Right,50,Female,No,Yes,66.0,1.72,Yes,Yes,22.3,Normal weight
+Yes,Right,65,Female,Yes,Yes,60.0,1.53,Yes,Yes,25.6,Overweight
+Yes,Right,73,Female,No,Yes,64.0,1.57,Yes,Yes,26.0,Overweight
+Yes,Right,39,Female,No,No,50.0,1.61,Yes,Yes,19.3,Normal weight
+Yes,Right,43,Female,No,No,58.0,1.47,Yes,No,26.8,Overweight
+Yes,Right,56,Female,No,No,58.0,1.56,Yes,No,23.8,Normal weight
+Yes,Left,46,Female,No,No,73.0,1.55,Yes,Yes,30.4,Obesity class I
+Yes,Right,54,Female,No,No,93.0,1.59,Yes,Yes,36.8,Obesity class II
+Yes,Left,84,Female,No,Yes,49.0,1.5,Yes,No,21.8,Normal weight
+Yes,Right,54,Female,Yes,Yes,56.0,1.55,Yes,No,23.3,Normal weight
+Yes,Left,50,Female,No,No,67.0,1.6,Yes,Yes,26.2,Overweight
+Yes,Right,44,Female,No,No,53.0,1.64,Yes,Yes,19.7,Normal weight
+Yes,Left,60,Female,No,No,72.0,1.62,No,Yes,27.4,Overweight
+Yes,Right,36,Female,No,No,53.0,1.6,No,Yes,20.7,Normal weight
+Yes,Left,72,Female,No,Yes,75.0,1.55,Yes,Yes,31.2,Obesity class I
+Yes,Left,59,Female,No,No,75.0,1.6,Yes,Yes,29.3,Overweight
+Yes,Left,47,Female,No,No,68.0,1.65,Yes,Yes,25.0,Normal weight
+Yes,Left,52,Female,No,No,92.0,1.6,No,Yes,35.9,Obesity class II
+Yes,Left,35,Female,No,No,60.0,1.55,Yes,Yes,25.0,Normal weight
+Yes,Left,54,Female,No,Yes,65.0,1.6,Yes,Yes,25.4,Overweight
+Yes,Left,60,Female,No,No,75.0,1.58,No,Yes,30.0,Overweight
+Yes,Left,50,Female,No,No,80.0,1.6,No,Yes,31.2,Obesity class I
+Yes,Left,37,Female,No,No,62.0,1.59,Yes,Yes,24.5,Normal weight
+Yes,Both,39,Female,No,No,52.0,1.65,Yes,Yes,19.1,Normal weight
+Yes,Right,68,Female,No,Yes,68.0,1.64,Yes,No,25.3,Overweight
+Yes,Left,81,Female,No,Yes,70.0,1.57,Yes,No,28.4,Overweight
+Yes,Right,54,Female,No,No,76.0,1.6,Yes,Yes,29.7,Overweight
+Yes,Left,62,Female,No,No,69.0,1.59,Yes,Yes,27.3,Overweight
+Yes,Left,76,Female,Yes,Yes,84.0,1.61,Yes,Yes,32.4,Obesity class I
+Yes,Right,47,Female,No,Yes,60.0,1.58,No,Yes,24.0,Normal weight
+Yes,Left,60,Female,Yes,Yes,76.0,1.62,No,Yes,29.0,Overweight
+Yes,Right,53,Female,No,No,63.0,1.5,No,No,28.0,Overweight
+Yes,Right,76,Female,No,No,56.0,1.54,No,No,23.6,Normal weight
+Yes,Right,60,Female,No,Yes,80.0,1.55,No,Yes,33.3,Obesity class I
+Yes,Left,74,Female,No,Yes,54.0,1.5,Yes,Yes,24.0,Normal weight
+Yes,Left,50,Female,No,Yes,55.0,1.56,Yes,Yes,22.6,Normal weight
+Yes,Right,75,Female,No,Yes,76.0,1.65,Yes,No,27.9,Overweight
+Yes,Right,54,Female,No,Yes,56.0,1.54,Yes,Yes,23.6,Normal weight
+Yes,Left,67,Female,Yes,Yes,71.0,1.66,Yes,Yes,25.8,Overweight
+Yes,Left,58,Female,No,Yes,73.0,1.63,Yes,Yes,27.5,Overweight
+Yes,Left,50,Female,No,Yes,80.0,1.6,Yes,Yes,31.2,Obesity class I
+Yes,Left,62,Female,No,Yes,63.0,1.6,Yes,Yes,24.6,Normal weight
+Yes,Right,78,Female,No,No,62.0,1.65,No,No,22.8,Normal weight
+Yes,Left,80,Female,No,Yes,65.0,1.5,Yes,Yes,28.9,Overweight
+Yes,Left,60,Female,No,No,60.0,1.54,Yes,Yes,25.3,Overweight
+Yes,Left,53,Female,No,Yes,50.0,1.4,No,No,25.5,Overweight
+Yes,Left,68,Female,No,No,74.0,1.63,Yes,Yes,27.9,Overweight
+Yes,Left,59,Female,No,No,80.0,1.55,Yes,Yes,33.3,Obesity class I
+Yes,Left,63,Female,No,Yes,69.0,1.6,Yes,Yes,27.0,Overweight
+Yes,Left,57,Female,Yes,Yes,75.0,1.55,Yes,Yes,31.2,Obesity class I
+Yes,Right,64,Female,No,No,64.0,1.5,No,No,28.4,Overweight
+Yes,Right,51,Female,No,No,60.0,1.52,Yes,No,26.0,Overweight
+Yes,Right,54,Female,Yes,Yes,69.0,1.65,Yes,No,25.3,Overweight
+Yes,Left,53,Female,No,No,60.0,1.57,Yes,Yes,24.3,Normal weight
+Yes,Left,80,Female,No,Yes,70.0,1.53,Yes,Yes,29.9,Overweight
+Yes,Right,78,Female,No,No,69.0,1.62,Yes,No,26.3,Overweight
+Yes,Left,77,Female,No,No,70.0,1.65,No,Yes,25.7,Overweight
+Yes,Left,75,Female,No,No,62.0,1.57,No,Yes,25.2,Overweight
+Yes,Both,36,Female,No,Yes,68.0,1.62,Yes,Yes,25.9,Overweight
+Yes,Right,65,Female,No,Yes,92.0,1.59,No,Yes,36.4,Obesity class II
+Yes,Left,66,Female,No,Yes,72.0,1.56,Yes,Yes,29.6,Overweight
+Yes,Right,53,Female,No,Yes,50.0,1.5,No,Yes,22.2,Normal weight
+Yes,Left,62,Female,No,Yes,76.0,1.63,Yes,Yes,28.6,Overweight
+Yes,Left,69,Female,No,Yes,72.0,1.62,Yes,Yes,27.4,Overweight
+Yes,Right,61,Female,No,Yes,65.0,1.6,No,Yes,25.4,Overweight
+Yes,Left,66,Female,No,Yes,83.0,1.6,Yes,No,32.4,Obesity class I
+Yes,Right,67,Female,No,Yes,68.0,1.5,Yes,Yes,30.2,Obesity class I
+Yes,Right,69,Female,No,Yes,68.0,1.55,Yes,Yes,28.3,Overweight
+Yes,Right,65,Female,No,Yes,68.5,1.6,Yes,Yes,26.8,Overweight
+Yes,Left,69,Female,No,Yes,56.0,1.5,Yes,No,24.9,Normal weight
+Yes,Right,51,Female,No,Yes,68.0,1.61,No,Yes,26.2,Overweight
+Yes,Left,74,Female,No,No,53.0,1.6,Yes,No,20.7,Normal weight
+Yes,Right,69,Female,No,Yes,58.0,1.5,Yes,Yes,25.8,Overweight
+Yes,Left,67,Female,No,Yes,71.0,1.64,Yes,Yes,26.4,Overweight
+Yes,Right,63,Female,No,No,58.0,1.6,Yes,No,22.7,Normal weight
+Yes,Right,58,Female,Yes,No,71.0,1.63,Yes,Yes,26.7,Overweight
+Yes,Right,62,Female,No,Yes,80.0,1.58,Yes,Yes,32.0,Obesity class I
+Yes,Left,57,Female,Yes,Yes,96.0,1.69,Yes,Yes,33.6,Obesity class I
+Yes,Left,75,Female,No,No,60.0,1.7,Yes,Yes,20.8,Normal weight
+Yes,Right,60,Female,No,No,88.0,1.7,Yes,Yes,30.4,Obesity class I
+Yes,Left,58,Female,Yes,Yes,67.0,1.56,Yes,Yes,27.5,Overweight
+Yes,Right,69,Female,No,No,64.0,1.52,Yes,Yes,27.7,Overweight
+Yes,Left,62,Female,No,No,71.0,1.54,No,No,29.9,Overweight
+Yes,Left,50,Female,No,Yes,71.0,1.61,Yes,Yes,27.4,Overweight
+Yes,Right,67,Female,No,Yes,79.0,1.65,No,Yes,29.0,Overweight
+Yes,Left,51,Female,No,Yes,75.0,1.6,No,Yes,29.3,Overweight
+Yes,Left,59,Female,No,Yes,64.0,1.62,No,Yes,24.4,Normal weight
+Yes,Left,57,Female,No,Yes,55.0,1.6,Yes,Yes,21.5,Normal weight
+Yes,Right,53,Female,No,Yes,94.0,1.72,Yes,Yes,31.8,Obesity class I
+Yes,Right,57,Female,No,No,69.0,1.58,Yes,No,27.6,Overweight
+Yes,Right,53,Female,No,Yes,76.0,1.73,Yes,Yes,25.4,Overweight
+Yes,Right,81,Female,No,Yes,81.0,1.6,Yes,Yes,31.6,Obesity class I
+Yes,Right,67,Female,Yes,Yes,71.0,1.59,Yes,Yes,28.1,Overweight
+Yes,Right,69,Female,No,No,82.0,1.61,No,No,31.6,Obesity class I
+Yes,Right,54,Female,Yes,Yes,53.0,1.53,Yes,Yes,22.6,Normal weight
+Yes,Right,59,Female,No,No,71.0,1.58,Yes,No,28.4,Overweight
